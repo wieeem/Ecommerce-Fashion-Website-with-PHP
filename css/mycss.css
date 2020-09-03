@@ -1,0 +1,7 @@
+
+.nav>li>a:hover, .nav>li>a:active, .nav>li>a:focus {
+  /*  padding-top: 15px;*/
+    /*padding-bottom: 15px;*/
+    background: #8c8b8b !important;
+}
+.btn-info{background-color:#4d5556;border-color:#4d5556}
